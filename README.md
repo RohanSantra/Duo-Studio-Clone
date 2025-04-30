@@ -4,7 +4,7 @@ This is a modern, fully responsive **clone** of the Duo Studio website, built us
 
 ## 🚀 Live Preview
 
-> Coming soon...
+> [(https://rohansantra.github.io/Duo-Studio-Clone/)]
 
 ---
 
