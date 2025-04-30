@@ -39,11 +39,11 @@ This website clone replicates the digital aesthetics and interactions of [Duo St
 
 ```bash
 /
-├── index.html         # Main HTML file
-├── style.css          # Styling and layout
-├── script.js          # GSAP & Locomotive Scroll logic
 ├── fonts/             # Custom fonts (PP Mori)
 │   ├── ppmori.ttf
 │   └── ppmori-regular.woff2
+├── index.html         # Main HTML file
+├── style.css          # Styling and layout
+├── script.js          # GSAP & Locomotive Scroll logic
 ├── assets/            # Image/video assets
 └── README.md          # Project overview
